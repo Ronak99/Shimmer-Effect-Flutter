@@ -6,8 +6,8 @@ See the video where I explain more about the project [here](https://youtu.be/TnA
 
 ## Screenshots
 
-<img src='https://github.com/Ronak99/Shimmer-Effect-Flutter/blob/master/screenshots/layout.gif' align='left' width='25%'>
+<img src='https://github.com/Ronak99/Shimmer-Effect-Flutter/blob/master/ss/first.gif' align='left' width='25%'>
 
 <img src='https://github.com/Ronak99/Shimmer-Effect-Flutter/blob/master/ss/second.gif' align='left' width='25%'>
 
-<img src='https://github.com/Ronak99/Shimmer-Effect-Flutter/blob/master/ss/third.gif.png' width='25%'>
+<img src='https://github.com/Ronak99/Shimmer-Effect-Flutter/blob/master/ss/third.gif' width='25%'>
