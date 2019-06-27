@@ -4,7 +4,7 @@ Shimmer Effect is really cool placeholder effect that you can show when you are 
 
 See the video where I explain more about the project [here](https://youtu.be/TnAaCyPzVuY).
 
-## Screenshots
+## Demo
 
 <img src='https://github.com/Ronak99/Shimmer-Effect-Flutter/blob/master/ss/first.gif' align='left' width='25%'>
 
