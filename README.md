@@ -1,16 +1,13 @@
-# shimmer_effect
+# Shimmer Effect in  <img src='http://sovitpoudel.com.np/wp-content/uploads/2019/01/flutter.png' height='30' width='30' align='top'>
 
-A new Flutter project.
+Shimmer Effect is really cool placeholder effect that you can show when you are loading data in the form of a list. To do it in flutter we use the dependency called Shimmer. After trying it out I realized that it can be used for much more than just simple placeholder. It can be used to even represent your brand or some icon, you can also give get some fancy effects by playing with different combinations of colors.
 
-## Getting Started
+See the video where I explain more about the project [here](https://youtu.be/TnAaCyPzVuY).
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+<img src='https://github.com/Ronak99/ClockApp/blob/master/screenshots/layout.gif' align='left' width='25%'>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src='https://github.com/Ronak99/ClockApp/blob/master/screenshots/flutter_01.png' align='left' width='25%'>
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+<img src='https://github.com/Ronak99/ClockApp/blob/master/screenshots/flutter_02.png' width='25%'>
