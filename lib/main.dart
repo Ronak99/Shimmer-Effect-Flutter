@@ -44,7 +44,7 @@ class _DelayedListState extends State<DelayedList> {
         isLoading = false;
       });
     });
-
+     print("loading:$isLoading");
     return isLoading ? ShimmerList() : DataList(timer);
   }
 }
@@ -118,27 +118,29 @@ class ShimmerLayout extends StatelessWidget {
             width: 100,
             color: Colors.grey,
           ),
-          Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: <Widget>[
-              Container(
-                height: containerHeight,
-                width: containerWidth,
-                color: Colors.grey,
-              ),
-              SizedBox(height: 5),
-              Container(
-                height: containerHeight,
-                width: containerWidth,
-                color: Colors.grey,
-              ),
-              SizedBox(height: 5),
-              Container(
-                height: containerHeight,
-                width: containerWidth * 0.75,
-                color: Colors.grey,
-              )
-            ],
+          Flexible(
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: <Widget>[
+                Container(
+                  height: containerHeight,
+                  width: containerWidth,
+                  color: Colors.grey,
+                ),
+                SizedBox(height: 5),
+                Container(
+                  height: containerHeight,
+                  width: containerWidth,
+                  color: Colors.grey,
+                ),
+                SizedBox(height: 5),
+                Container(
+                  height: containerHeight,
+                  width: containerWidth * 0.75,
+                  color: Colors.grey,
+                )
+              ],
+            ),
           )
         ],
       ),
